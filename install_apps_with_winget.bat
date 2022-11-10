@@ -19,6 +19,8 @@ winget install inkscape
 
 winget install -e --id AOMEI.Backupper
 winget install -e --id KeePassXCTeam.KeePassXC
+winget install -e --id GnuPG.Gpg4win
+
 
 winget install -e --id Oracle.VirtualBox
 winget install -e --id CPUID.CPU-Z
