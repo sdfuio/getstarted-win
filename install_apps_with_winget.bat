@@ -3,6 +3,13 @@
 
 
 winget install -e --id Git.Git
+winget install -e --id Codeblocks.Codeblocks
+winget install -e --id Spyder.Spyder
+winget install -e --id Azul.Zulu.18.JRE
+winget install -e --id Azul.Zulu.18.JDK
+winget install -e --id Notepad++.Notepad++
+winget install -e --id Microsoft.dotNetFramework
+
 
 winget install -e --id ProtonTechnologies.ProtonVPN
 winget install -e --id TorProject.TorBrowser
