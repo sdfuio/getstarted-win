@@ -27,15 +27,16 @@ winget install -e --id CodecGuide.K-LiteCodecPack.Full
 winget install -e --id Kiwix.WikiMed
 winget install -e --id calibre.calibre
 
+
 winget install -e --id AOMEI.Backupper
 winget install -e --id KeePassXCTeam.KeePassXC
 winget install -e --id GnuPG.Gpg4win
 winget install -e --id WiresharkFoundation.Wireshark
 winget install -e --id IDRIX.VeraCrypt
-
+winget install -e --id AdGuard.AdGuard
 
 winget install -e --id Apple.iTunes
 winget install -e --id Oracle.VirtualBox
 winget install -e --id CPUID.CPU-Z
-
+winget install -e --id Dell.CommandUpdate.Universal
 
