@@ -1,6 +1,6 @@
 
-::https://learn.microsoft.com/ja-jp/windows/package-manager/winget/
-
+:: https://learn.microsoft.com/ja-jp/windows/package-manager/winget/
+:: https://winget.run/
 
 winget install -e --id Git.Git
 winget install -e --id Codeblocks.Codeblocks
