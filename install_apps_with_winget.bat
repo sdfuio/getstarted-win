@@ -26,7 +26,7 @@ winget install -e --id CodecGuide.K-LiteCodecPack.Full
 
 winget install -e --id Kiwix.WikiMed
 winget install -e --id calibre.calibre
-
+winget install -e --id TheDocumentFoundation.LibreOffice
 
 winget install -e --id AOMEI.Backupper
 winget install -e --id KeePassXCTeam.KeePassXC
