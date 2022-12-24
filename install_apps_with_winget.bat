@@ -9,6 +9,8 @@ winget install -e --id Azul.Zulu.18.JDK
 winget install -e --id Notepad++.Notepad++
 winget install -e --id Microsoft.dotNetFramework
 winget install -e --id Microsoft.VisualStudio.2022.Community-Preview
+winget install -e --id Spyder.Spyder
+
 
 winget install -e --id ProtonTechnologies.ProtonVPN
 winget install -e --id TorProject.TorBrowser
