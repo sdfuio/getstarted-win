@@ -43,6 +43,7 @@ winget install -e --id GnuPG.Gpg4win
 
 winget install -e --id Apple.iTunes
 winget install -e --id Oracle.VirtualBox
+winget install -e --id VMware.WorkstationPlayer
 winget install -e --id CPUID.CPU-Z
 winget install -e --id Dell.CommandUpdate.Universal
 
