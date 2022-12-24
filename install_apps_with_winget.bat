@@ -26,6 +26,8 @@ winget install -e --id VideoLAN.VLC
 winget install -e --id Audacity.Audacity
 winget install -e --id LIGHTNINGUK.ImgBurn
 winget install -e --id CodecGuide.K-LiteCodecPack.Full
+winget install -e --id KDE.Kdenlive
+
 
 winget install -e --id Kiwix.WikiMed
 winget install -e --id calibre.calibre
