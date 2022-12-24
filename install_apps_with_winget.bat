@@ -10,6 +10,8 @@ winget install -e --id Notepad++.Notepad++
 winget install -e --id Microsoft.dotNetFramework
 winget install -e --id Microsoft.VisualStudio.2022.Community-Preview
 winget install -e --id Spyder.Spyder
+winget install -e --id Microsoft.VCRedist.2015+.x64
+winget install -e --id Microsoft.VCRedist.2015+.x86
 
 
 winget install -e --id ProtonTechnologies.ProtonVPN
